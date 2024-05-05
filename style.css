@@ -1,0 +1,15 @@
+/* Basic styling for the game canvas */
+#gameCanvas {
+    display: block;
+    margin: 0 auto;
+    background-color: black;
+}
+
+/* Styling for score display */
+#scoreDisplay {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+    color: white;
+}
